@@ -93,14 +93,23 @@ iterate()
 ### Output:
 
 i) do…while:
+
 ![Screenshot 2025-03-12 211024](https://github.com/user-attachments/assets/3d21cd39-5b61-4858-8328-f0c864f7f818)
+
 ii) while…do
+
 ![Screenshot 2025-03-12 211634](https://github.com/user-attachments/assets/a1976d00-7bb5-4737-88e9-7659414bb92d)
+
 iii) switch
+
 ![Screenshot 2025-03-12 212151](https://github.com/user-attachments/assets/4ec1806c-f342-4bf7-8ea9-981aa12c689e)
+
 iv) if else
+
 ![Screenshot 2025-03-12 212610](https://github.com/user-attachments/assets/bfd1c065-6642-42bc-b3ba-c8e1c5b0e515)
+
 v) for
+
 ![Screenshot 2025-03-12 213401](https://github.com/user-attachments/assets/5cddb871-6b4b-419f-bd80-63cfab1ed5fb)
 
 ### Result:
