@@ -104,7 +104,8 @@ ii) while…do
 
 iii) switch
 
-![Screenshot 2025-03-18 212456](https://github.com/user-attachments/assets/97246320-8b18-40f8-ba9f-a167599b9cce)
+![Screenshot 2025-03-18 212456](https://github.com/user-attachments/assets/a45a6705-3cfc-4350-bb74-a397687751f9)
+
 
 
 iv) if else
@@ -113,7 +114,8 @@ iv) if else
 
 v) for
 
-![Screenshot 2025-03-18 212134](https://github.com/user-attachments/assets/e0ab43ff-0ba9-4238-8128-605fbe15cc2f)
+![Screenshot 2025-03-18 212134](https://github.com/user-attachments/assets/2ab21fc3-1441-4aeb-b03d-fe4f9b9f3645)
+
 
 
 
