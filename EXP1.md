@@ -1,7 +1,7 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
 ### DATE:  12/03/2025
-### REGISTER NUMBER : 212224230120
+### REGISTER NUMBER : 212222040073
 
 ### AIM:  
 To write python programs for do…while, while…do, for, switch and if…else and test with possible Test Cases 
@@ -103,7 +103,8 @@ ii) while…do
 ```
 iii) switch
 ```
-![Screenshot 2025-03-12 212151](https://github.com/user-attachments/assets/4ec1806c-f342-4bf7-8ea9-981aa12c689e)
+![Screenshot 2025-03-18 212456](https://github.com/user-attachments/assets/6ba9e9ff-9dcc-4053-b283-326775dd8550)
+
 ```
 iv) if else
 ```
@@ -111,7 +112,8 @@ iv) if else
 ```
 v) for
 ```
-![Screenshot 2025-03-12 213401](https://github.com/user-attachments/assets/5cddb871-6b4b-419f-bd80-63cfab1ed5fb)
+![Screenshot 2025-03-18 212134](https://github.com/user-attachments/assets/11c63ff2-3aa8-425c-a8ec-784a78924679)
+
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
