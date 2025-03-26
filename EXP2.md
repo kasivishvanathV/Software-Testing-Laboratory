@@ -6,13 +6,14 @@ Write a python program for matrix multiplication and inspect for failures.
 
 #### Algorithm:
 
-Start the program.
+#### Start the program.
 Create empty list formatrix1, matrix2 and result.
 Get the rows and columns count from the user.
 Get the values of two matrix.
 Perform matrix multiplication and store the answer in result.
 Stop the program.
-Program:
+
+#### Program:
 r1,c1=input("enter row and column count in matrix 1: ").split()
 r2,c2=input("enter row and column count in matrix 2: ").split()
 matrix1=[ ]
