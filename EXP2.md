@@ -14,6 +14,7 @@ Perform matrix multiplication and store the answer in result.
 Stop the program.
 
 #### Program:
+```
 r1,c1=input("enter row and column count in matrix 1: ").split()
 r2,c2=input("enter row and column count in matrix 2: ").split()
 matrix1=[ ]
@@ -53,7 +54,7 @@ if(r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric()):
              print()
 else:
     print("enter a valid number")
-
+```
 ### Output:
 ![Screenshot 2025-03-26 094656](https://github.com/user-attachments/assets/9e045c16-48d4-4946-8f00-10004c74fc46)
 ![Screenshot 2025-03-26 094827](https://github.com/user-attachments/assets/30723b74-4a4d-4aa7-992b-0725cd82558e)
