@@ -1,10 +1,10 @@
-Ex.No: 2 Matrix Multiplication
-DATE:
-REGISTER NUMBER :
-AIM:
+### Ex.No: 2 Matrix Multiplication
+#### DATE:
+#### REGISTER NUMBER :
+#### AIM:
 Write a python program for matrix multiplication and inspect for failures.
 
-Algorithm:
+#### Algorithm:
 
 Start the program.
 Create empty list formatrix1, matrix2 and result.
@@ -53,8 +53,7 @@ if(r1.isnumeric() and c1.isnumeric() and r2.isnumeric() and c2.isnumeric()):
 else:
     print("enter a valid number")
 
+### Output:
 
-Output:
-
-Result:
+### Result:
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
