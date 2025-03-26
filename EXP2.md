@@ -55,6 +55,9 @@ else:
     print("enter a valid number")
 
 ### Output:
+![Screenshot 2025-03-26 094656](https://github.com/user-attachments/assets/9e045c16-48d4-4946-8f00-10004c74fc46)
+![Screenshot 2025-03-26 094827](https://github.com/user-attachments/assets/30723b74-4a4d-4aa7-992b-0725cd82558e)
+
 
 ### Result:
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
